@@ -40,7 +40,7 @@ function App() {
           ✅◦•●◉✿🅒🅞🅝🅣🅐🅒🅣 ✿◉●•◦✅
         </h2>
         <h2 className='animate__animated animate__rotateInDownRight'>
-          Telegram User name:- <a a href="https://t.me/@sagorchoudhory" target="_blank" rel="noopener noreferrer">@sagorchoudhory🟥🟥🟥</a>
+          Telegram User name:- <a a href="https://t.me/sagorchoudhory" target="_blank" rel="noopener noreferrer">@sagorchoudhory🟥🟥🟥</a>
         </h2>
         <h2 className='animate__animated animate__rotateInUpLeft'>
           📱 Facebook :- NoT Available
